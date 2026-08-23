@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Doxy.me](https://doxy.me/)**  
-
-  Simple, browser-based telemedicine platform popular with independent clinicians; free tier available with paid plans for advanced features and HIPAA BAA.
-
-
-
-- **[Amwell](https://business.amwell.com/)**  
-
-  Enterprise virtual care platform used by health systems and health plans for visits, automated programs, and hybrid care delivery.
-
-
-
-- **[Teladoc Health](https://www.teladochealth.com/)**  
-
-  Large-scale virtual care provider and platform offering telemedicine services, specialty programs, and enterprise solutions.
-
-
-
-- **[Zoom for Healthcare](https://www.zoom.com/en/healthcare/)**  
-
-  HIPAA-compliant video and collaboration suite from Zoom tailored for healthcare organizations needing secure virtual visits and team communication.
-
-
-
-- **[Mend](https://www.mend.com/)**  
-
-  Telehealth and patient engagement platform combining video visits, intake forms, scheduling, and communication tools.
-
-
-
-- **[Updox](https://www.updox.com/)**  
-
-  Healthcare communication suite that includes telehealth alongside secure messaging, fax, and patient engagement features.
-
-
-
-- **[Coviu](https://www.coviu.com/)**  
-
-  Telehealth platform focused on secure video consultations and clinical workflows, with strong presence in certain markets.
-
-
-
-- **[SimplePractice](https://www.simplepractice.com/)**  
-
-  Practice management platform with built-in telehealth, widely used by behavioral health and independent therapy practices.
-
-
-
-- **[Tebra](https://www.tebra.com/)**  
-
-  Integrated practice management, EHR, and patient engagement suite that includes telehealth capabilities for ambulatory practices.
-
-
-
-- **[Klara](https://www.klara.com/)**  
-
-  Patient communication and engagement platform that supports telehealth visits alongside messaging and care coordination.
+| Platform | Description & Key Features | Starting Price | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Doxy.me](https://doxy.me/)** | Browser-based telemedicine platform for independent clinicians and healthcare teams; includes personalized URL and virtual waiting room. | **$0/mo** (Paid Pro plan starts at **$35/user/mo** or $29/mo billed annually) | **Free forever plan**: Unlimited 1-on-1 audio/video minutes, SD video quality, text chat, and standard virtual waiting room. Limited to single clinician & 1-on-1 calls (no group calling, screen sharing, HD video, or custom branding). |
+| **[Amwell](https://business.amwell.com/)** | Comprehensive virtual care platform and telehealth software suite for private practices, health systems, and hybrid care delivery. | **$49/user/mo** (Amwell Private Practice, 1–10 users; volume discounts down to $39/user/mo) | **30-day free trial**: Full access to HIPAA-compliant video consultations with up to 20 participants per visit; no credit card required to start trial. No free forever plan. |
+| **[Teladoc Health](https://www.teladochealth.com/)** | Large-scale virtual care and telehealth operating system (Solo platform) offering enterprise-level virtual visits and remote care coordination. | **$75/visit** (Pay-per-visit direct consultation) or **~$1,000/facility/mo** base platform licensing | **30-day guided pilot/sandbox**: Provides simulated clinical workflows, virtual care routing, and EHR integration testing upon enterprise consultation. No free forever plan. |
+| **[Zoom for Healthcare](https://www.zoom.com/en/healthcare/)** | HIPAA-compliant video visit and clinical collaboration suite with Business Associate Agreement (BAA) and medical workflow integrations. | **$15.99/user/mo** (or $149.90/user/yr per license with signed BAA) | **Free Basic plan**: Up to 100 participants with 40-minute limit per meeting *(Note: Free Basic plan does not include HIPAA BAA; healthcare compliance requires paid tier)*. **30-day free trial** available for paid Workplace tiers. |
+| **[Mend](https://www.mend.com/)** | Telehealth and patient engagement suite featuring digital intake forms, automated appointment reminders, and virtual waiting rooms. | **$49/provider/mo** (Core virtual visit & intake bundle) | **14-day free trial**: Access to digital intake forms, appointment scheduling, and video consultation sandbox testing for clinical staff. No free forever plan. |
+| **[Updox](https://www.updox.com/)** | Healthcare collaboration and communication hub combining video visits, secure messaging, e-fax, and patient engagement. | **$50/provider/mo** (Telehealth & communications tier) | **14-day free trial**: Access to video visit features, secure bi-directional SMS, and digital fax testing for up to 5 team members. No free forever plan. |
+| **[Coviu](https://www.coviu.com/)** | Browser-first telehealth platform tailored for video consultations, interactive clinical assessments, and in-call diagnostic tools. | **$25/user/mo** (Billed annually) or **$35/user/mo** (Essentials monthly) | **14-day free trial**: Full access to Standard tier features including unlimited 1-on-1 and group video calls (up to 6 participants), screen sharing, and clinical assessment add-ons (no credit card required). No free forever plan. |
+| **[SimplePractice](https://www.simplepractice.com/)** | All-in-one practice management, EHR, and telehealth system designed for behavioral health and private wellness clinics. | **$49/mo** (Starter plan; Essential at $79/mo, Plus at $99/mo) | **30-day free trial**: Full access to paperless intake, client portal, appointment scheduling, and telehealth video sessions (no credit card required). No free forever plan. |
+| **[Tebra](https://www.tebra.com/)** | Integrated EHR, billing, and patient experience suite with built-in telehealth consultations for ambulatory practices. | **$149/provider/mo** (Clinical telehealth & scheduling bundle) | **14-day guided trial/sandbox**: Complete environment with sample EHR records, scheduling, virtual waiting room, and video visit testing after demo. No free forever plan. |
+| **[Klara](https://www.klara.com/)** | Patient communication and engagement platform supporting asynchronous messaging, intake workflows, and virtual visits. | **$125/provider/mo** (Messaging and telehealth starting tier) | **14-day free trial/pilot**: Sandbox access with sample patient messaging threads, automated appointment reminders, and video consultation testing. No free forever plan. |
 
 
 
